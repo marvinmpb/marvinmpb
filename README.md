@@ -4,10 +4,10 @@ Hi 👋 My name is Marvin
 I am a Fullstack Javascript Developer
 -------------------------------------
 
-Passionate about technology and front end development in particular, i've decided to learn web development in 2021 
-💡 I like to explore new trends and learn new technologies 
-🪄 I'm on track for learning more about TypeScript 
-👨‍💻 I'm currently working on developing new projects to enhance my learning 💭
+Passionate about technology and front end development in particular, i've decided to learn web development in 2021   
+💡 I like to explore new trends and learn new technologies  
+🪄 I'm on track for learning more about TypeScript  
+👨‍💻 I'm currently working on developing new projects to enhance my learning 💭  
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [mpbmarvin@gmail.com](mailto:mpbmarvin@gmail.com)
