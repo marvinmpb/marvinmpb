@@ -6,7 +6,7 @@ I am a Fullstack Javascript Developer
 
 Passionate about technology and front end development in particular, i've decided to learn web development in 2021   
 💡 I like to explore new trends and learn new technologies  
-🪄 I'm on track for learning more about TypeScript and React Native  
+🪄 I'm on track for learning more about TypeScript, Flutter & Three.js  
 👨‍💻 I'm currently working on developing new projects to enhance my learning 💭  
 
 * 🌍  I'm based in Paris
